@@ -8,7 +8,7 @@ A dynamic and responsive full-stack restaurant ordering system designed to enhan
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap
+- **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP
 - **Database:** MySQL
 
