@@ -17,7 +17,7 @@ A dynamic and responsive full-stack restaurant ordering system designed to enhan
 - View menu items
 - Add items to cart
 - Place orders
-- Responsive design for mobile and desktop
+- Responsive design
 
 ## 📦 How to Use
 
