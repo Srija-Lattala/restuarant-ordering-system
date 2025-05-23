@@ -8,8 +8,8 @@ A dynamic and responsive full-stack restaurant ordering system designed to enhan
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** PHP
+- **Frontend:** Vue.js
+- **Backend:** Node.js , Express
 - **Database:** MySQL
 
 ## ✨ Features
